@@ -6,7 +6,6 @@
 // x+=10;
 // console.log(x);
 
-
 // let mass = 78;
 // let height = 1.69;
 
@@ -62,7 +61,7 @@
 // }
 // console.log(retairmentAge(1991));
 
-// const retairmentAge = function (birthYear){ 
+// const retairmentAge = function (birthYear){
 // return 2037-birthYear;
 // }
 // const retairementYear = function (birthYear,birthname){
@@ -86,7 +85,7 @@
 //   "cake3",
 //   "cake4",
 //   "chicken2",
-//   "chicken3",  
+//   "chicken3",
 // ];
 // const bijoy ={
 //   firstName: 'bijoy',
@@ -111,3 +110,6 @@
 // for(i=0; i<array.length; i++){
 //   console.log(array[i]);
 // }
+const x = '23';
+if (x === 23) console.log(23);
+const calcAge = birthYear => 2037 - birthYear;
