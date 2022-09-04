@@ -110,6 +110,34 @@
 // for(i=0; i<array.length; i++){
 //   console.log(array[i]);
 // }
-const x = '23';
-if (x === 23) console.log(23);
-const calcAge = birthYear => 2037 - birthYear;
+// const x = '23';
+// if (x === 23) console.log(23);
+// const calcAge = birthYear => 2037 - birthYear;
+
+// 'use script';
+
+// const rastorent = {
+//   name: 'Rastorent',
+//   location: 'dhaka ,bangdesh',
+//   catagories: [
+//     'italian',
+//     'french',
+//     'french1',
+//     'french2',
+//     'french3',
+//     'french4',
+//     'french',
+//   ],
+// };
+
+// // const [first, second] = rastorent.catagories;
+// // console.log(first, second);
+
+// // [first, second] = [second, first];
+// // console.log(first, second);
+
+// let [main, , , secondary] = rastorent.catagories;
+// console.log(main, secondary);
+
+// [main, secondary] = [secondary, main];
+// console.log(main, secondary);
